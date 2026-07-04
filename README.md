@@ -1,4 +1,29 @@
-<<<<<<< HEAD
+Project Name - GoatHarvest Lanka
+
+Project Type-
+Livestock Management and E-Commerce System
+
+Industry-
+>Agriculture
+>Livestock
+>E-Commerce
+>Education
+
+Target Users-
+SME Owner
+Farm Worker
+Buyer
+Small Farmer
+
+Main Purpose  -To digitize GoatHarvest Lanka's business operations.
+Instead of using paper records and phone calls, users can perform everything online.
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -53,3 +78,6 @@ Join our community of developers creating universal apps.
 # GoatHarvestLanka
 mobile app
 >>>>>>> 491dbf2e71e95236d236a60c6d84db2335ed6e49
+
+
+
